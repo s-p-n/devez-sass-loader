@@ -1,0 +1,25 @@
+{
+  "name": "devez-sass-loader",
+  "version": "1.0.0",
+  "description": "sass-loader forked without security issues.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-p-n/devez-sass-loader.git"
+  },
+  "keywords": [
+    "sass",
+    "loader",
+    "webpack",
+    "devez"
+  ],
+  "author": "Spencer A. Lockhart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-p-n/devez-sass-loader/issues"
+  },
+  "homepage": "https://github.com/s-p-n/devez-sass-loader#readme"
+}
