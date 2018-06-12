@@ -23,6 +23,7 @@
     "release": "standard-version"
   },
   "dependencies": {
+    "devez-node-sass": "^1.0.x",
     "clone-deep": "^2.0.1",
     "loader-utils": "^1.0.1",
     "lodash.tail": "^4.1.1",
@@ -38,7 +39,6 @@
     "file-loader": "^0.11.2",
     "mocha": "^5.2.0",
     "mock-require": "^3.0.1",
-    "devez-node-sass": "^1.0.x",
     "nyc": "^11.0.2",
     "raw-loader": "^0.5.1",
     "should": "^11.2.0",
@@ -67,5 +67,5 @@
     "type": "git",
     "url": "git+https://github.com/s-p-n/devez-sass-loader.git"
   },
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
